@@ -1,3 +1,4 @@
+'run = "echo hello world"'
 Date: Thurs, 02/12/2020
 Source: coreutils
 Binary: coreutils mktemp
