@@ -8,7 +8,7 @@ Version: 8.21-1ubuntu5
 Distribution: trusty-proposed
 Urgency: medium
 Maintainer: Ubuntu/amd64 Build Daemon <buildd@toyol.buildd>
-Changed-By: "Hayuhel Stringfellow" hayuhel@gmail.com 
+Changed-By: Hayuhel Stringfellow hayuhel@gmail.com 
 Description: 
  coreutils  - GNU core utilities
  mktemp     - coreutils mktemp transitional package
@@ -25,4 +25,4 @@ Checksums-Sha256:
 Files: 
  9d8995da82c3379f88340c3273091a34 1090770 utils required coreutils_8.21-1ubuntu5_amd64.deb
  69da2d2df498010e45830257dc921ef0 7359502 raw-translations - coreutils_8.21-1ubuntu5_amd64_translations.tar.gz
-Original-Maintainer: Hayuhel Stringfellow <hayuhel@gmajl.com>
+Original-Maintainer: Hayuhel Stringfellow <hayuhel@gmail.com>
