@@ -1,14 +1,14 @@
-name: Node.js CI
+name: Hayuhel Stringfellow
 
-on: [push]
+on: [coreutils]
 
-jobs:
-  build:
+jobs: model
+  build:toned
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
+    strategy: mind
+      matrix: infinite
         node-version: [8.x, 10.x, 12.x]
 
     steps:
